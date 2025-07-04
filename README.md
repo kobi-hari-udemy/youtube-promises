@@ -9,7 +9,7 @@ Here you can find all the code samples, organized into folders, one folder per v
 ## Code
 | Video | Project | Description |
 | ----- | ------- | ----------- |
-| 01. Threads, BLocking vs Asynchronous Code | [Fun with Threads](./code/01%20-%20threads%20and%20blocking/fun-with-threads/) | Examples of Syncronous and Asynchronous APIs in JS |
+| 01. Threads, BLocking vs Asynchronous Code | [Fun with Threads](./code/01%20-%20threads%20and%20blocking/fun-with-threads/) | Examples of Synchronous and Asynchronous APIs in JS |
 | 04. Consuming Promises | [Consuming Promises](./code/04%20-%20consuming%20promises/) | Demo of how to consume promises using `then` and `catch`
 
 
