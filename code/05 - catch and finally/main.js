@@ -10,12 +10,13 @@ function go() {
   console.log("Here we go...");
   const pr = getDelayedNumber();
 
-  pr.finally(() => {
-    console.log("This will always run, regardless of the promise outcome.");
-  });
 
   pr.then((res) => {
     console.log("Promise completed with result:", res);
+  });
+
+    pr.finally(() => {
+    console.log("This will always run, regardless of the promise outcome.");
   });
 
   console.log("Waiting for the promise to resolve...");
