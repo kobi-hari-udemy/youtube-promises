@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es2018", 
+    "outDir": "./",
+    "lib": ["es2018", "dom"], 
+  },
+  "exclude": ["*.js"],
+  "include": ["src/**/*"] 
+}
